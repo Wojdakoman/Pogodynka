@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Pogodynka</string>
+    <string name="pressure">Ciśnienie</string>
+    <string name="wind">Wiatr</string>
+    <string name="sunrise">wschód</string>
+    <string name="sunset">zachód</string>
+    <string name="sunrise_long">Wschód słońca</string>
+    <string name="sunset_long">Zachód słońca</string>
+    <string name="degree">°</string>
+    <string name="feelslike">Odczuwalne:</string>
+    <string name="todayIs">Dzisiaj jest</string>
+    <string name="search">Szukaj</string>
+    <string name="notFound">Nie znaleziono miasta</string>
+    <string name="myLocation">Moja lokalizacja</string>
+    <string name="homeLocation">Miasto domowe</string>
+    <string name="cities">Miasta</string>
+    <string name="changeCity">Zmień miasto</string>
+    <string name="saved">Zapisane</string>
+    <string name="lastSearch">Ostanio wyszukiwane</string>
+    <string name="saveCity">Zapisz miasto</string>
+    <string name="setAsHome">Ustaw aktywne miasto jako domowe</string>
+    <string name="simplyView">Widok uproszczony</string>
+    <string name="normalView">Widok standardowy</string>
+    <string name="homeCityNotSet">Miasto domowe nie zostało ustawione. Ustawić aktualne miasto jako domowe?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="notSet">Nie ustawiono</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
